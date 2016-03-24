@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Hi, my name is\_Eric Kerkhoven.\_ I'm a young and ambitious filmmaker from The Netherlands.\_My passion is to create 'out-of-this-world' experiences and intense stories through film."
-datePublished: '2016-03-24T00:21:32.540Z'
-dateModified: '2016-03-24T00:21:19.836Z'
+datePublished: '2016-03-24T00:23:43.576Z'
+dateModified: '2016-03-24T00:21:40.853Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-hi-my-name-is-eric-kerkhoven-im-a-young-and-ambitious-fi.md
