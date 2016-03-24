@@ -17,20 +17,20 @@ keywords:
   - lighting
   - spitsbroers
 description: 'Eric Kerkhoven, Camera Department: Malaika'
-datePublished: '2016-03-24T00:29:51.354Z'
-dateModified: '2016-03-24T00:29:48.013Z'
+datePublished: '2016-03-24T00:31:54.094Z'
+dateModified: '2016-03-24T00:30:00.234Z'
 author: []
 related: []
 app_links: []
 title: Eric Kerkhoven
+sourcePath: _posts/2016-03-24-eric-kerkhoven.md
+published: true
 authors: []
 publisher:
   name: IMDb
   domain: www.imdb.com
   url: 'http://www.imdb.com'
   favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico'
-sourcePath: _posts/2016-03-24-eric-kerkhoven.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
