@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: CINEMATOGRAPHY
-    id: 27e44d7a-6a7c-4c43-8b38-d51518ca8471
-    type: content
   - name: DIRECTING
     id: 182dc1bf-bf5f-4b0b-bbef-74449af52cef
+    type: content
+  - name: CINEMATOGRAPHY
+    id: 27e44d7a-6a7c-4c43-8b38-d51518ca8471
     type: content
 favicon: null
 title: Eric Kerkhoven | Portfolio
