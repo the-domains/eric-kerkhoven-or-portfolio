@@ -1,20 +1,4 @@
-name: 'Eric Kerkhoven | Portfolio'
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.55103
-title: 'Eric Kerkhoven | Portfolio'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9678325736895204
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Eric Kerkhoven | Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: CINEMATOGRAPHY
+    id: 27e44d7a-6a7c-4c43-8b38-d51518ca8471
+    type: content
+favicon: null
+title: Eric Kerkhoven | Portfolio
 purpose: []
